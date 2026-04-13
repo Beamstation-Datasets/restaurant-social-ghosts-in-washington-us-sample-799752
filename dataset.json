@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Washington, US",
+  "export_job_id": "4688e867-ce85-467e-be86-67fac368f82f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 799752,
+  "location_name": "Washington",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-washington-us-sample-799752",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/799752/beamstation_799752_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 23,
+  "sample_sha256": "98ddb559e3ecb9b5f837012b187f3ca64d092c44adcb30955b425444b0b95193",
+  "sample_size_bytes": 96680,
+  "total_records": 231,
+  "updated_at": "2026-04-08T07:38:32.986290+00:00"
+}
