@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f0e75928-9470-4f70-ba4e-bcac4ae26d1f",
+  "export_job_id": "20ca21a7-5bc4-42a5-a8bd-426bf98f0d64",
   "id_short": 799752,
-  "published_at": "2026-04-19T07:39:47Z",
+  "published_at": "2026-04-23T07:26:54Z",
   "repo_name": "restaurant-social-ghosts-in-washington-us-sample-799752",
   "sample_asset_name": "beamstation_799752_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/799752/beamstation_799752_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "552f2f9831521a1eea0f5da706a07a910942545ebddcc12ea5bb64efbcf1a884",
-  "sample_size_bytes": 72725,
-  "total_records": 180
+  "sample_records": 4,
+  "sample_sha256": "c0345f06532eb126e1c4952c903e5f272c47fcd42ace4d955da91b06eeb72d63",
+  "sample_size_bytes": 32308,
+  "total_records": 43
 }
